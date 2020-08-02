@@ -1,0 +1,12 @@
+fastapi*/
+mangum*/
+pydantic*/
+redis*/
+starlette*/
+typing*
+typing*/
+function.zip
+venv/
+dataclasses*
+dataclasses*/
+__pychache__/
